@@ -1,0 +1,19 @@
+# IntelliJ IDEA project files
+*.iml
+.gradle
+/local.properties
+/.idea/
+
+# macOS system files
+.DS_Store
+
+# Gradle build output
+/build
+
+# Android Studio generated files
+/captures
+.externalNativeBuild
+.cxx
+
+# Local configuration
+local.properties
